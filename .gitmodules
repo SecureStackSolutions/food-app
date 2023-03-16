@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:SecureStackSolutions/food-app-frontend.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:SecureStackSolutions/food-app-api-gateway.git
+[submodule "backend/authentication"]
+	path = backend/authentication
+	url = git@github.com:SecureStackSolutions/authentication-server.git
